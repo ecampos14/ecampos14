@@ -1,4 +1,16 @@
 ## Olá, eu sou a Emanuele Campos!
+
+
+<img align="right" width="250" src="https://cdn.discordapp.com/banners/374292176194109441/a_ddd3eba0cce939ce84e93bc39529857d.gif?size=2048" />
+
+
+```kotlin
+
+  Olá, eu sou Emanuele, estudante de Banco de Dados. 
+  Atualmente estou estagiando na área de Qualidade de Software,
+
+```
+
 <div align="center">
   <a href="https://github.com/ecampos14">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ecampos14&show_icons=true&theme=tokyonight" alt="* Emanele Campos** github stats"/>
