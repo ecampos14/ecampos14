@@ -1,7 +1,7 @@
 ## Olá, eu sou a Emanuele Campos!
 
 
-<img align="right" width="250" src="https://cdn.discordapp.com/banners/374292176194109441/a_ddd3eba0cce939ce84e93bc39529857d.gif?size=2048" />
+<img align="right" width="200" src="https://cdn.discordapp.com/banners/374292176194109441/a_ddd3eba0cce939ce84e93bc39529857d.gif?size=2048" />
 
 
 ```kotlin
