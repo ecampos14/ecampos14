@@ -5,9 +5,10 @@
 
 
 ```kotlin
-
-  Olá, eu sou Emanuele, estudante de Banco de Dados. 
-  Atualmente estou estagiando na área de Qualidade de Software,
+Sou estudante de Banco de Dados e estagiando em Qualidade de Software. 
+Busco oportunidades na área de desenvolvimento,estou empenhada 
+em aprender e crescer profissionalmente,desejo aplicar meus 
+conhecimentos, aprender e crescer profissionalmente.
 
 ```
 
