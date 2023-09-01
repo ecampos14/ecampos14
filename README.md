@@ -10,7 +10,7 @@
 Sou estudante de Banco de Dados e estagiando em Qualidade de Software. 
 Busco oportunidades na área de desenvolvimento,estou empenhada 
 em aprender e crescer profissionalmente, desejo aplicar meus 
-conhecimentos, aprender e crescer profissionalmente.
+conhecimentos e aprender.
 
 ```
 <hr>
