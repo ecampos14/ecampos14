@@ -7,10 +7,9 @@
 
 ```kotlin
 
-Sou estudante de Banco de Dados e estagiando em Qualidade de Software. 
-Busco oportunidades na área de desenvolvimento,estou empenhada 
-em aprender e crescer profissionalmente, desejo aplicar meus 
-conhecimentos e aprender.
+Sou estudante de Banco de Dados e estou trabalhando na área de Qualidade de Software.
+Estou em busca de oportunidades na área de desenvolvimento e estou determinado a aprender
+e crescer profissionalmente. Quero aplicar meus conhecimentos e continuar aprendendo.
 
 ```
 <hr>
